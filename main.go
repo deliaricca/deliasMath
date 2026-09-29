@@ -1,8 +1,9 @@
 package main
 
 import (
-	"deliasMath/evenOrOdd"
 	"fmt"
+
+	"github.com/deliaricca/deliasMath/evenOrOdd"
 )
 
 func main() {
